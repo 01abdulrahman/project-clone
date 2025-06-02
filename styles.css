@@ -1,0 +1,17 @@
+body{
+    background: #bbb;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+h1{
+    color: blue;
+    background-color: blanchedalmond;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+
+}
